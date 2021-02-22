@@ -17,7 +17,7 @@ ${YW}\e[1;100m~ We are INNWA Family ~\e[0m${RD}
 
 "
 }
-print(b)
+
 
 function chk_depen(){
 	clear
