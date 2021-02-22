@@ -13,7 +13,7 @@ function header()
 
 ${YW}\e[1;100m~ We are INNWA Family ~\e[0m${RD} 
  ${CY}By Pyae Sone Hmoo{RD}
- ${YW}HTP ${CY}We are Myanmar We are Power ${RD}
+ ${CY}We are Myanmar We are Power ${RD}
 
 "
 }
