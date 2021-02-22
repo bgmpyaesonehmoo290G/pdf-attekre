@@ -7,11 +7,8 @@ GR='\033[92m' # green
 YW='\033[93m' # yellow
 RD='\033[91m' # red
 NT='\033[97m'  # netral
-b = pyfiglet.figlet_format( 'PyaeSoneHmoo')
-
 function header()
-import requests
-import pyfiglet{
+{
 	printf "
 
 ${YW}\e[1;100m~ We are INNWA Family ~\e[0m${RD} 
