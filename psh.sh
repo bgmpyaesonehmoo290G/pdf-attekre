@@ -1,6 +1,4 @@
 
-import requests
-import pyfiglet
 # color
 PP='\033[95m' # purple
 CY='\033[96m' # cyan
@@ -10,7 +8,8 @@ YW='\033[93m' # yellow
 RD='\033[91m' # red
 NT='\033[97m'  # netral
 b = pyfiglet.figlet_format( 'PyaeSoneHmoo')
-
+import requests
+import pyfiglet
 function header(){
 	printf "
 
